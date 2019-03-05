@@ -1,4 +1,4 @@
-# Steganography-sytem-in-c
+# ppm-steganography-in-c
 1st Coursework for F28HS, 2nd year of Bsc Computer Science. 
 
 For the 1st coursework of Hardware-Software interface we have been given instruction to create a program 
